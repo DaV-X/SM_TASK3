@@ -1,0 +1,21 @@
+
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+o
+?app/src/main/java/com/example/task3/SingleFragmentActivity.java,d\4\d447d23ebd7b1996d0d5f4ecea4e3daf7834b0aa
+]
+-app/src/main/java/com/example/task3/Task.java,c\b\cbab7c6c7e02e9111046621d3a408cd25358a98f
+e
+5app/src/main/java/com/example/task3/TaskFragment.java,4\2\428a7c7aa20cba64193e2a36b8e70f480fafcf83
+i
+9app/src/main/java/com/example/task3/TaskListActivity.java,b\3\b3635985be7a71b7f5897254a040cfe5e7309a93
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+e
+5app/src/main/java/com/example/task3/MainActivity.java,5\a\5ae5c1fc6370c28d07107f86834b39f4143806d7
+d
+4app/src/main/java/com/example/task3/TaskStorage.java,b\8\b811eacd4e6184266ba9145d2f2dc8a88f07d87d
+i
+9app/src/main/java/com/example/task3/TaskListFragment.java,1\7\17eab7e0b06be4a0adcc65e9ed1d07e611c6105c
